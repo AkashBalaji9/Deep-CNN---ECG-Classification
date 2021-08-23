@@ -2,3 +2,4 @@ README File
 1-D CNN model built in tensorflow and keras for 12-lead ECG classification problem. 
 MIT-BIH dataset used for training the model
 CNN Layer architecture is optimized using Bayesian Hyperparameter Tuning subject to given constraints on filter size, no. of neurons per layer, etc.
+Python code is ported into C language using tinymlgen library and final implementation was done in a microcontroller
