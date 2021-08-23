@@ -3,4 +3,4 @@
 Model was built using tensorflow and keras librarires 
 MIT-BIH Arrhythmia dataset is used for training the model 
 Optimization of layer architecture is done using Bayesian Hyperparameter Tuning subject to constraints on filter size, no. of neurons per dense layer, activation function,etc.
-Python code was ported into C language for final implementation on a microcontroller
+Python code was ported into C language for final implementation on a microcontroller offering deep learning task support
